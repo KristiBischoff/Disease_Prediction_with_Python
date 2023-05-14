@@ -9,4 +9,4 @@ This data set was obtained from https://www.kaggle.com/datasets/itachi9604/disea
 ![weight_value_bar](Symptom Weight Category Frequencies.PNG)
 
 ### Confusion Matrix for Disease Prediction
-![CM_graph](Confusion_Matrix.PNG)
+![CM_graph](Confusion Matrix.PNG)
