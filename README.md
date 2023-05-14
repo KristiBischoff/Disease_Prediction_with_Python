@@ -6,7 +6,7 @@ Citation
 This data set was obtained from https://www.kaggle.com/datasets/itachi9604/disease-symptom-description-dataset on 5/12/2023 under the following license: https://creativecommons.org/licenses/by-sa/4.0/ as listed on the author's page. No additional authorship or citation information was provided. This license allows the user to share and adapt the material as long as appropriate credit is given, and changes need to be acknowledged. There were no changes to this material, and this is for educational purposes only.
 
 ### Distribution of Symptom Severity Weight Values (from most frequent weight value to least)
-![weight_value_bar](Symptom Weight Category Frequencies.png)
+![weight_value_bar](Symptom Weight Category Frequencies.PNG)
 
 ### Confusion Matrix for Disease Prediction
-![CM_graph](Confusion_Matrix.png)
+![CM_graph](Confusion_Matrix.PNG)
